@@ -6,6 +6,6 @@ and modify it, it's small and fairly understandable.
 
 You give it a list of .c files, it builds .o files and links them. If that's
 not enough for your project and you feel you'd better use tools like autoconf
-or cmake, then it's best for you to use those tools.
+or cmake, then please do so.
 
 xx j
